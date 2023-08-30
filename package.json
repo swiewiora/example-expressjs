@@ -18,5 +18,8 @@
   "homepage": "https://github.com/koyeb/example-expressjs#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "v18.17.1"
   }
 }
